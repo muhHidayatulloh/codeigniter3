@@ -1,0 +1,14 @@
+@media screen and (max-width: 650px) {
+	div.category-menu {
+		height: auto;
+	}
+
+	div.category-menu div.main-category {
+		overflow-x: scroll;
+		justify-content: start;
+	}
+
+	div.category-menu div.main-category div.item {
+		width: auto;
+	}
+}
